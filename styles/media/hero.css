@@ -1,6 +1,7 @@
 @media (max-width:863px) {
 
     .header {
+        margin: 0px 10px 0px 10px;
         position: relative;
         top: 15px;
     }
@@ -19,6 +20,10 @@
 
     .about-us {
         padding: 37px 0px 0px 0px;
+    }
+
+    .about-Us__Prog{
+        font-size: 33px;
     }
 
     .p-line__block {
